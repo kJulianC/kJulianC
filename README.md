@@ -4,13 +4,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Learning about backend</b>
+  - [Learning to use NODEJS](https://github.com/kJulianC/Aprendiendo-Node)
+  - [Code of example to use SPRING BOOT](https://github.com/kJulianC/SpringEggLive/tree/main/src)
 - <b>Learning Angular </b>
   - [Learning Angular, app about heroes](https://github.com/kJulianC/HeroesAngularApp)
   - [Learning Angular, using an API to get info about countries](https://github.com/kJulianC/BuscadorPaises)
   - [Learning Angular, using and create pipes](https://github.com/kJulianC/pipesAngular) 
-- <b>Learning about backend</b>
-  - [learning to use NODEJS](https://github.com/kJulianC/Aprendiendo-Node)
-  - [Code of example to use SPRING BOOT](https://github.com/kJulianC/SpringEggLive/tree/main/src)
 - <b>Python</b>
   - []()
 - <b>Golang</b>
