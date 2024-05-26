@@ -11,7 +11,7 @@
   - [Learning Angular, using an API to get info about countries](https://github.com/kJulianC/BuscadorPaises)
   - [Learning Angular, using and create pipes](https://github.com/kJulianC/pipesAngular) 
 - <b>Python</b>
-  - [Learning to FastApi](https://github.com/kJulianC/UsingFastAPI)
+  - [Learning to user FastApi](https://github.com/kJulianC/UsingFastAPI)
 - <b>Golang</b>
   - []()
 - <b>Java</b>
