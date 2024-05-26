@@ -11,11 +11,11 @@
   - [Learning Angular, using an API to get info about countries](https://github.com/kJulianC/BuscadorPaises)
   - [Learning Angular, using and create pipes](https://github.com/kJulianC/pipesAngular) 
 - <b>Python</b>
-  - []()
+  - [Learning to FastApi](https://github.com/kJulianC/UsingFastAPI)
 - <b>Golang</b>
   - []()
 - <b>Java</b>
-  - [Learning Springboot and Spring boot security](https://github.com/kJulianC/SpringEggLive)
+  - [Learning to Springboot and Spring boot security](https://github.com/kJulianC/SpringEggLive)
   - [C compiler for computer science subject 3](https://github.com/kJulianC/Ccompiler)
 <h2> 🎓📚 Some university projects and programs</h2>
 
