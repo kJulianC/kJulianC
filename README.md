@@ -15,7 +15,7 @@
 - <b>Golang</b>
   - []()
 - <b>Java</b>
-  - [Learning to Springboot and Spring boot security](https://github.com/kJulianC/SpringEggLive)
+  - [Example of Springboot and Spring boot security](https://github.com/kJulianC/SpringEggLive)
   - [C compiler for computer science subject 3](https://github.com/kJulianC/Ccompiler)
 <h2> 🎓📚 Some university projects and programs</h2>
 
